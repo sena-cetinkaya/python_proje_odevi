@@ -1,0 +1,57 @@
+2023-12-03 18:39:02 - INFO - Veritabanýna baþarý ile baðlanýldý.
+2023-12-03 18:39:02 - INFO - 'news' tablosu oluþturuldu.
+2023-12-03 18:39:02 - INFO - 'word_frequency' tablosu oluþturuldu.
+2023-12-03 18:39:02 - INFO - 'stats' tablosu oluþturuldu.
+2023-12-03 18:39:02 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:03 - DEBUG - https://turkishnetworktimes.com:443 "GET /kategori/gundem/ HTTP/1.1" 200 None
+2023-12-03 18:39:03 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:09 - DEBUG - https://turkishnetworktimes.com:443 "GET /gaziosmanpasada-75-yasindaki-kadinin-supheli-olumu HTTP/1.1" 301 0
+2023-12-03 18:39:09 - DEBUG - https://turkishnetworktimes.com:443 "GET /gaziosmanpasada-75-yasindaki-kadinin-supheli-olumu/ HTTP/1.1" 200 19409
+2023-12-03 18:39:09 - INFO - Veriler eklendi.
+2023-12-03 18:39:09 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:09 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:10 - DEBUG - https://turkishnetworktimes.com:443 "GET /maskeli-kadin-is-yerine-pompali-tufekle-ates-acti HTTP/1.1" 301 0
+2023-12-03 18:39:10 - DEBUG - https://turkishnetworktimes.com:443 "GET /maskeli-kadin-is-yerine-pompali-tufekle-ates-acti/ HTTP/1.1" 200 19051
+2023-12-03 18:39:11 - INFO - Veriler eklendi.
+2023-12-03 18:39:11 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:11 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:12 - DEBUG - https://turkishnetworktimes.com:443 "GET /guterres-2023-insanlik-tarihinin-en-sicak-yili-oluyor HTTP/1.1" 301 0
+2023-12-03 18:39:12 - DEBUG - https://turkishnetworktimes.com:443 "GET /guterres-2023-insanlik-tarihinin-en-sicak-yili-oluyor/ HTTP/1.1" 200 19340
+2023-12-03 18:39:12 - INFO - Veriler eklendi.
+2023-12-03 18:39:12 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:12 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:14 - DEBUG - https://turkishnetworktimes.com:443 "GET /cin-ve-rusyadan-kissinger-icin-taziye-mesaji HTTP/1.1" 301 0
+2023-12-03 18:39:14 - DEBUG - https://turkishnetworktimes.com:443 "GET /cin-ve-rusyadan-kissinger-icin-taziye-mesaji/ HTTP/1.1" 200 19645
+2023-12-03 18:39:14 - INFO - Veriler eklendi.
+2023-12-03 18:39:14 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:14 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:17 - DEBUG - https://turkishnetworktimes.com:443 "GET /husumetli-oldugu-muhtar-arkadasini-olduren-muhtar-tutuklandi HTTP/1.1" 301 0
+2023-12-03 18:39:17 - DEBUG - https://turkishnetworktimes.com:443 "GET /husumetli-oldugu-muhtar-arkadasini-olduren-muhtar-tutuklandi/ HTTP/1.1" 200 19560
+2023-12-03 18:39:17 - INFO - Veriler eklendi.
+2023-12-03 18:39:17 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:17 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:19 - DEBUG - https://turkishnetworktimes.com:443 "GET /samsunda-iki-otomobil-carpisti-1i-ak-parti-artvin-genclik-kollari-baskani-2-olu-2-yarali HTTP/1.1" 301 0
+2023-12-03 18:39:19 - DEBUG - https://turkishnetworktimes.com:443 "GET /samsunda-iki-otomobil-carpisti-1i-ak-parti-artvin-genclik-kollari-baskani-2-olu-2-yarali/ HTTP/1.1" 200 19984
+2023-12-03 18:39:19 - INFO - Veriler eklendi.
+2023-12-03 18:39:19 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:19 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:20 - DEBUG - https://turkishnetworktimes.com:443 "GET /sosyal-medya-hesabindan-uygunsuz-video-paylasan-kamerunlu-gozaltina-alindi HTTP/1.1" 301 0
+2023-12-03 18:39:20 - DEBUG - https://turkishnetworktimes.com:443 "GET /sosyal-medya-hesabindan-uygunsuz-video-paylasan-kamerunlu-gozaltina-alindi/ HTTP/1.1" 200 19073
+2023-12-03 18:39:21 - INFO - Veriler eklendi.
+2023-12-03 18:39:21 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:21 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:22 - DEBUG - https://turkishnetworktimes.com:443 "GET /esenyurtta-cocuguyla-yuruyen-kadina-otomobille-yanasip-tacizde-bulunan-supheli-tutuklandi HTTP/1.1" 301 0
+2023-12-03 18:39:22 - DEBUG - https://turkishnetworktimes.com:443 "GET /esenyurtta-cocuguyla-yuruyen-kadina-otomobille-yanasip-tacizde-bulunan-supheli-tutuklandi/ HTTP/1.1" 200 19370
+2023-12-03 18:39:22 - INFO - Veriler eklendi.
+2023-12-03 18:39:22 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:22 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:24 - DEBUG - https://turkishnetworktimes.com:443 "GET /bitlis-merkezli-9-ildeki-teror-operasyonlarinda-46-tutuklama HTTP/1.1" 301 0
+2023-12-03 18:39:24 - DEBUG - https://turkishnetworktimes.com:443 "GET /bitlis-merkezli-9-ildeki-teror-operasyonlarinda-46-tutuklama/ HTTP/1.1" 200 19325
+2023-12-03 18:39:24 - INFO - Veriler eklendi.
+2023-12-03 18:39:24 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:24 - DEBUG - Starting new HTTPS connection (1): turkishnetworktimes.com:443
+2023-12-03 18:39:25 - DEBUG - https://turkishnetworktimes.com:443 "GET /ankarada-ayhan-bora-kaplanin-yegeni-ile-beraber-3-kisi-tutuklandi HTTP/1.1" 301 0
+2023-12-03 18:39:26 - DEBUG - https://turkishnetworktimes.com:443 "GET /ankarada-ayhan-bora-kaplanin-yegeni-ile-beraber-3-kisi-tutuklandi/ HTTP/1.1" 200 19901
+2023-12-03 18:39:26 - INFO - Veriler eklendi.
+2023-12-03 18:39:26 - INFO - Veri manipülasyonu iþlemi yapýldý.
+2023-12-03 18:39:26 - INFO - Veri manipülasyonu iþlemi yapýldý.
